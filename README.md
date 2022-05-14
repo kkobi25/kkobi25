@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kkobi25</h1>
 <h3 align="center">An energy engineer in Tokyo, Japan</h3>
 
-- I will be sharing here some tools I created. Please feel free to use them if you think it may be useful :)
+- I will be sharing here some tools I created. Please feel free to use them :)
 
 <p align="left">
 </p>
